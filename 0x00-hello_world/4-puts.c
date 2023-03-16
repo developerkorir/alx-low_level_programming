@@ -2,8 +2,8 @@
 
 /**
  * main - Entry point
- * 
- * Retun - always return o to show success
+ *
+ * Return: Always 0 (Success)
  */
 
 int main(void)
