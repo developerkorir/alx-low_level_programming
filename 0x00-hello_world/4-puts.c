@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - function to the whole body
- * puts - function to print
- * return - (0) for success
+ * main - Entry point
+ * 
+ * Retun - always return o to show success
  */
 
 int main(void)
