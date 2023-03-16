@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * Main function
- * put function
- * return (0) for success
+ * main - function to the whole body
+ * puts - function to print
+ * return - (0) for success
  */
 
 int main(void)
