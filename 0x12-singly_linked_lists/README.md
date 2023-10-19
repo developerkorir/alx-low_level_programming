@@ -1,7 +1,7 @@
-### C - Singly linked lists
+# C - Singly linked lists
 
 ## Concept of data structures
 
-# Linked Lists
+### Linked Lists
 1. Singly linked list
 
