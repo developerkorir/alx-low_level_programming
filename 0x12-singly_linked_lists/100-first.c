@@ -1,12 +1,13 @@
+#include "lists.h"
 #include <stdio.h>
-
 /**
- * main - check the code for Holberton School students.
- *
- * Return: Always 0.
- */
-int main(void)
+ *  liebre_tortuga -function that executes before main
+ **/
+void liebre_tortuga(void)
 {
-    printf("(A tortoise, having pretty good sense of a hare's nature, challenges one to a race.)\n");
-    return (0);
+	char *string1, *string2;
+
+	string1 = "You're beat! and yet, you must allow,\n";
+	string2 = "I bore my house upon my back!\n";
+	printf("%s%s", string1, string2);
 }
